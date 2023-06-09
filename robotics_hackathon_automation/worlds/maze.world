@@ -4201,7 +4201,7 @@
           <pose>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/thatblueboy/.gazebo/models/construction_cone/meshes/construction_cone.dae</uri>
+              <uri>model://construction_cone/meshes/construction_cone.dae</uri>
               <scale>3.27166 3.27166 3.27166</scale>
             </mesh>
           </geometry>
@@ -4305,7 +4305,7 @@
           <pose>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/thatblueboy/.gazebo/models/construction_cone/meshes/construction_cone.dae</uri>
+              <uri>model://construction_cone/meshes/construction_cone.dae</uri>
               <scale>3.27166 3.27166 3.27166</scale>
             </mesh>
           </geometry>
@@ -4409,7 +4409,7 @@
           <pose>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/thatblueboy/.gazebo/models/construction_cone/meshes/construction_cone.dae</uri>
+              <uri>model://construction_cone/meshes/construction_cone.dae</uri>
               <scale>3.26714 3.26714 3.26714</scale>
             </mesh>
           </geometry>
@@ -4513,7 +4513,7 @@
           <pose>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/thatblueboy/.gazebo/models/construction_cone/meshes/construction_cone.dae</uri>
+              <uri>model://construction_cone/meshes/construction_cone.dae</uri>
               <scale>3.27166 3.27166 3.27166</scale>
             </mesh>
           </geometry>
@@ -4617,7 +4617,7 @@
           <pose>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/thatblueboy/.gazebo/models/construction_cone/meshes/construction_cone.dae</uri>
+              <uri>model://construction_cone/meshes/construction_cone.dae</uri>
               <scale>3.27166 3.27166 3.27166</scale>
             </mesh>
           </geometry>
