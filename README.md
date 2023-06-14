@@ -94,7 +94,7 @@ git clone -b noetic-devel https://github.com/ROBOTIS-GIT/turtlebot3_simulations.
 ```
 Build your workspace
 ```
-cd ~/catkin_ws && catkin_make
+cd ~/catkin_ws && catkin build
 ```
 <br><br>
 **Automation task package**<br>
