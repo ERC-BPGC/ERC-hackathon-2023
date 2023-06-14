@@ -103,7 +103,7 @@ Clone this repository in your catkin workspace source folder.
 cd ~/catkin_ws/src/
 ```
 ```
-git clone https://github.com/ERC-BPGC/robotics-hackathon-2023.git
+git clone https://github.com/ERC-BPGC/ERC-hackathon-2023.git
 ```
 The ROS package ```robotics_hackathon_automation``` contains all the files required.<br> 
 This completes the environment setup for the autonmation task.
