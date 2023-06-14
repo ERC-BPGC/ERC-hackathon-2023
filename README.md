@@ -92,7 +92,7 @@ Clone the turtlebot3_simulations repo:
 ```
 git clone -b noetic-devel https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
 ```
-Build your workspace
+Build your workspace (Note: Most resources including the book by Morgan Quigley use catkin_make instead of catkin build, but make sure you use catkin build instead) 
 ```
 cd ~/catkin_ws && catkin build
 ```
